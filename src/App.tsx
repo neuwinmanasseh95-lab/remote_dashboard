@@ -41,9 +41,9 @@ const MOCK_APPLIANCES: Appliance[] = [
   { id: 'app5', name: 'Kitchen Light', type: 'light', power: 40, isOn: true },
   { id: 'app6', name: 'Washing Machine', type: 'washing_machine', power: 500, isOn: true },
   { id: 'app7', name: 'Ceiling Fan', type: 'fan', power: 75, isOn: true },
-  { id: 'app8', name: 'Fan 3', type: 'fan', power: 75, isOn: true },
-  { id: 'app9', name: 'Light 8', type: 'light', power: 40, isOn: true },
-  { id: 'app10', name: 'Light 9', type: 'light', power: 40, isOn: true },
+  { id: 'app8', name: 'Fan ', type: 'fan', power: 75, isOn: true },
+  { id: 'app9', name: 'Light ', type: 'light', power: 40, isOn: true },
+  { id: 'app10', name: 'Light ', type: 'light', power: 40, isOn: true },
 ];
 
 export default function App() {
