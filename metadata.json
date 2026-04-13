@@ -1,0 +1,5 @@
+{
+  "name": "BMS Remote Command Center",
+  "description": "High-performance real-time dashboard for Battery Management Systems and Smart Home control.",
+  "requestFramePermissions": []
+}
